@@ -90,6 +90,11 @@
   <ItemGroup>
     <ClInclude Include="tinyfiledialogs.h" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="hello.c" />
+    <ClCompile Include="hello_wchar_t.c" />
+    <ClCompile Include="tinyfiledialogs.c" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
