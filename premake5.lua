@@ -8,7 +8,7 @@ project "tinyfiledialogs"
 
     files
     {
-        "*.cpp",
+        "*.c",
         "*.h"
     }
     
